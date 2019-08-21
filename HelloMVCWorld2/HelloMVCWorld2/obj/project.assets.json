@@ -12538,11 +12538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lfmendez\\Documents\\Visual Studio 2017\\Projects\\HelloMVCWorld2\\HelloMVCWorld2\\HelloMVCWorld2.csproj",
+      "projectUniqueName": "C:\\Users\\lfmendez\\repos\\GSProjects\\HelloMVCWorld2\\HelloMVCWorld2\\HelloMVCWorld2.csproj",
       "projectName": "HelloMVCWorld2",
-      "projectPath": "C:\\Users\\lfmendez\\Documents\\Visual Studio 2017\\Projects\\HelloMVCWorld2\\HelloMVCWorld2\\HelloMVCWorld2.csproj",
+      "projectPath": "C:\\Users\\lfmendez\\repos\\GSProjects\\HelloMVCWorld2\\HelloMVCWorld2\\HelloMVCWorld2.csproj",
       "packagesPath": "C:\\Users\\lfmendez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lfmendez\\Documents\\Visual Studio 2017\\Projects\\HelloMVCWorld2\\HelloMVCWorld2\\obj\\",
+      "outputPath": "C:\\Users\\lfmendez\\repos\\GSProjects\\HelloMVCWorld2\\HelloMVCWorld2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
