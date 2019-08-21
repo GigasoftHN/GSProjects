@@ -1,0 +1,24 @@
+﻿@model HelloMVCWorld2.Models.WebUser
+
+
+@using (var form = Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(m => m.FirstName)
+        @Html.TextBoxFor(m => m.FirstName)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.LastName)
+        @Html.TextBoxFor(m => m.LastName)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.MailAddress)
+        @Html.TextBoxFor(m => m.MailAddress)
+    </div>
+
+    <input type="submit" value="Submit" />
+}
+
+

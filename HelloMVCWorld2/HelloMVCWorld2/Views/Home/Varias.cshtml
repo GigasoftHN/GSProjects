@@ -1,0 +1,31 @@
+﻿
+@{
+    Layout = null;
+}
+@{
+    List<string> names = new List<string>()
+{
+"John Doe",
+"Jane Doe",
+"Joe Doe",
+"Jenna Doe",
+"Doggy Doe"
+};
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Página Varias</title>
+</head>
+<body>
+    <ul>
+        @for (int i = 0; i < names.Count; i++)
+        {
+            <li>@names[i]</li>
+        }
+    </ul>
+</body>
+</html>
